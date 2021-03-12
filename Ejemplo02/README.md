@@ -14,7 +14,7 @@ Para este ejemplo, primero descargamos un dataset y lo dividimos para posteriorm
 
 posterior a la preparación de los datos procedemos a crear el experimento, para esto nos vamos a la categoria de Components and registries y seleccionamos Experiments and trials.
 
-![Captura01.PNG]({{site.baseurl}}/Ejemplo02/Captura01.PNG)
+![Captura01.PNG](/Ejemplo02/Captura01.PNG)
 
 Una vez ahi seleccionamos crear experimento y le proporcionaremos los datos para crear el experimento:
 
@@ -25,17 +25,17 @@ Una vez ahi seleccionamos crear experimento y le proporcionaremos los datos para
 1. Bucket donde iran todos los artefactos y resultados.
 1. Nombre del fichero donde van a ir los artefactos y resultados.
 
-![Captura02.PNG]({{site.baseurl}}/Ejemplo02/Captura02.PNG)
+![Captura02.PNG](/Ejemplo02/Captura02.PNG)
 
-![Captura03.PNG]({{site.baseurl}}/Ejemplo02/Captura03.PNG)
+![Captura03.PNG](/Ejemplo02/Captura03.PNG)
 
 Posterior a crear el experimento y despues de unos minutos, Autopilot generara el mejor modelo posible listo para desplegar.
 
-![Captura04.PNG]({{site.baseurl}}/Ejemplo02/Captura04.PNG)
+![Captura04.PNG](/Ejemplo02/Captura04.PNG)
 
 Para desplegarlo creamos un endpoint con su nomenclatura correspondiente y ya estaria listo para ser testeado.
 
-![Captura05.PNG]({{site.baseurl}}/Ejemplo02/Captura05.PNG)
+![Captura05.PNG](/Ejemplo02/Captura05.PNG)
 
 Por ultimo y para ser testeado se utilizo creo una funcion infer como se muestra en el siguiente notebook
 

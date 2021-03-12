@@ -4,7 +4,7 @@ Para este ejercicio se utilizó la herramienta [AutoPilot](https://aws.amazon.co
 
 Su funcionamiento consiste en proporcionar un conjunto de datos y seleccionar un objetivo(Para este caso en especifico es la calidad del vino), Autopilot construira multiples modelos midiendo su precisión.Al final de su busquedad, Autopilot ofrecera el mejor modelo encontrado para su despliegue.
 
-![product-page-diagram_SageMaker_Auto-Pilot_dk-bg@2x.e2d27caf8ec3224f1498d904aee630f61c847359.png]({{site.baseurl}}/Ejemplo02/product-page-diagram_SageMaker_Auto-Pilot_dk-bg@2x.e2d27caf8ec3224f1498d904aee630f61c847359.png)
+![product-page-diagram_SageMaker_Auto-Pilot_dk-bg@2x.e2d27caf8ec3224f1498d904aee630f61c847359.png](/Ejemplo02/product-page-diagram_SageMaker_Auto-Pilot_dk-bg@2x.e2d27caf8ec3224f1498d904aee630f61c847359.png)
 
 ## Ejemplo Vino
 

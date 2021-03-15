@@ -26,3 +26,5 @@ Para finalizar se descargan los resultados del trabajo de transformacion por lot
 **HIPERPARÁMETROS:** Parametros que recibe el algoritmo como profundidad, peso minimo de hijos, etc
 
 **ENDPOINT:** Un endpoint o punto de enlace es una URL mediante la cual se conecta a un servicio de programación en AWS
+
+[Notebook realizado](https://github.com/Afelipe1599/SageMaker/blob/main/Ejemplo01/tutoAWS.ipynb)
